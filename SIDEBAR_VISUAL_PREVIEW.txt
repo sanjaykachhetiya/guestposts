@@ -1,0 +1,296 @@
+════════════════════════════════════════════════════════════════════════════════
+                    AMAZON/FLIPKART SIDEBAR - VISUAL PREVIEW
+════════════════════════════════════════════════════════════════════════════════
+
+## DESKTOP VIEW (1920px+)
+────────────────────────────────────────────────────────────────────────────────
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  GuestPostHub                                    [Cart] [Dashboard]          │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+Browse Publishers
+Discover high-quality publishers across all niches. Use filters to find perfect match.
+
+┌────────────────┬────────────────────────────────────────────────────────────┐
+│                │                                                            │
+│  ┌──────────┐  │  ┌─────────────────────────────────────────────────────┐  │
+│  │ FILTERS  │  │  │ 🔍 Search by domain name...                         │  │
+│  │    [3]   │  │  └─────────────────────────────────────────────────────┘  │
+│  └──────────┘  │                                                            │
+│                │  [Technology ✕] [DA: 40-60 ✕] [$100-$300 ✕]              │
+│ [Clear All]    │                                                            │
+│                │  Showing 24 publishers                                     │
+│ ▼ Category     │                                                            │
+│  □ All (50)    │  ┌──────────┐ ┌──────────┐ ┌──────────┐                  │
+│  ✓ Tech (12) ←│  │Publisher │ │Publisher │ │Publisher │                  │
+│  □ Business(8) │  │    1     │ │    2     │ │    3     │                  │
+│  □ Health (5)  │  │          │ │          │ │          │                  │
+│  ...           │  │ DA: 45   │ │ DA: 52   │ │ DA: 48   │                  │
+│                │  │ $150     │ │ $220     │ │ $180     │                  │
+│ ▼ Country      │  └──────────┘ └──────────┘ └──────────┘                  │
+│  □ All         │                                                            │
+│  □ USA         │  ┌──────────┐ ┌──────────┐ ┌──────────┐                  │
+│  □ UK          │  │Publisher │ │Publisher │ │Publisher │                  │
+│  □ Canada      │  │    4     │ │    5     │ │    6     │                  │
+│  ...           │  │          │ │          │ │          │                  │
+│                │  │ DA: 55   │ │ DA: 42   │ │ DA: 61   │                  │
+│ ▼ DA Range     │  │ $200     │ │ $140     │ │ $250     │                  │
+│  Min: 40       │  └──────────┘ └──────────┘ └──────────┘                  │
+│  ───●═════○──  │                                                            │
+│  Max: 60       │  ... more publishers ...                                  │
+│                │                                                            │
+│  [20-40]       │                                                            │
+│  [40-60] ←     │                                                            │
+│  [60-80]       │                                                            │
+│  [80+]         │                                                            │
+│                │                                                            │
+│ ▼ Price        │                                                            │
+│  Min: $100     │                                                            │
+│  ──●══════○──  │                                                            │
+│  Max: $300     │                                                            │
+│                │                                                            │
+│  [< $100]      │                                                            │
+│  [$100-$300]   │                                                            │
+│  [$300-$500]   │                                                            │
+│  [$500+]       │                                                            │
+│                │                                                            │
+│ ▼ Features     │                                                            │
+│  ✓ DoFollow    │                                                            │
+│  □ Verified    │                                                            │
+│  □ Featured    │                                                            │
+│                │                                                            │
+└────────────────┴────────────────────────────────────────────────────────────┘
+    264px wide           Flexible width (rest of screen)
+
+
+## TABLET VIEW (768px - 1024px)
+────────────────────────────────────────────────────────────────────────────────
+
+┌────────────────┬────────────────────────────────────────────────────────────┐
+│  ┌──────────┐  │  ┌─────────────────────────────────────────────────────┐  │
+│  │ FILTERS  │  │  │ 🔍 Search...                                        │  │
+│  │    [3]   │  │  └─────────────────────────────────────────────────────┘  │
+│  └──────────┘  │                                                            │
+│                │  [Technology ✕] [DA: 40-60 ✕]                             │
+│ [Clear All]    │                                                            │
+│                │  Showing 24 publishers                                     │
+│ ▼ Category     │                                                            │
+│  ✓ Tech (12)   │  ┌─────────────────┐ ┌─────────────────┐                 │
+│  □ Business    │  │  Publisher 1    │ │  Publisher 2    │                 │
+│  ...           │  │                 │ │                 │                 │
+│                │  │  DA: 45         │ │  DA: 52         │                 │
+│ ▼ DA Range     │  │  $150           │ │  $220           │                 │
+│  ───●═════○──  │  └─────────────────┘ └─────────────────┘                 │
+│                │                                                            │
+│ ... more       │  ┌─────────────────┐ ┌─────────────────┐                 │
+│                │  │  Publisher 3    │ │  Publisher 4    │                 │
+└────────────────┴────────────────────────────────────────────────────────────┘
+
+
+## MOBILE VIEW (< 768px)
+────────────────────────────────────────────────────────────────────────────────
+
+┌─────────────────────────────────────────────┐
+│  GuestPostHub            [🛒] [👤]          │
+├─────────────────────────────────────────────┤
+│                                             │
+│  Browse Publishers                          │
+│                                             │
+│  ┌───────────────────────────────────────┐  │
+│  │ 🔍 Search by domain name...           │  │
+│  └───────────────────────────────────────┘  │
+│                                             │
+│  [Technology ✕] [DA: 40-60 ✕]              │
+│                                             │
+│  Showing 24 publishers                      │
+│                                             │
+│  ┌───────────────────────────────────────┐  │
+│  │  Publisher 1                          │  │
+│  │  [Technology] [DoFollow]              │  │
+│  │                                       │  │
+│  │  DA: 45  PA: 40  Traffic: 25K        │  │
+│  │                                       │  │
+│  │  $150          [♥] [Add to Cart]     │  │
+│  └───────────────────────────────────────┘  │
+│                                             │
+│  ┌───────────────────────────────────────┐  │
+│  │  Publisher 2                          │  │
+│  │  [Business] [DoFollow]                │  │
+│  │                                       │  │
+│  │  DA: 52  PA: 48  Traffic: 30K        │  │
+│  │                                       │  │
+│  │  $220          [♥] [Add to Cart]     │  │
+│  └───────────────────────────────────────┘  │
+│                                             │
+│  ... more publishers ...                    │
+│                                             │
+└─────────────────────────────────────────────┘
+           [🔽 Filters (3)]  ← Floating button
+
+
+## MOBILE - SIDEBAR OPEN
+────────────────────────────────────────────────────────────────────────────────
+
+┌────────────────┐         ┌─────────────────────────────────────────┐
+│                │         │  GuestPostHub                    [blur] │
+│  ┌──────────┐  │         │                                         │
+│  │ FILTERS  │✕│  Slide  │  Browse Publishers             [fade]   │
+│  │    [3]   │  │  ←────  │                                         │
+│  └──────────┘  │         │  ┌─────────────────────────────┐       │
+│                │         │  │ Search...          [faded]  │       │
+│ [Clear All]    │         │  └─────────────────────────────┘       │
+│                │         │                                         │
+│ ▼ Category     │         │  [faded content behind overlay]        │
+│  □ All (50)    │         │                                         │
+│  ✓ Tech (12)   │         │                                         │
+│  □ Business(8) │         │                                         │
+│  □ Health (5)  │         │                                         │
+│  ...           │         │                                         │
+│                │         │                                         │
+│ ▼ Country      │         │                                         │
+│  □ All         │         │                                         │
+│  □ USA         │         │                                         │
+│  ...           │         │                                         │
+│                │         │                                         │
+│ ▼ DA Range     │         │                                         │
+│  ───●═════○──  │         │                                         │
+│                │         │                                         │
+│  [20-40]       │         │                                         │
+│  [40-60] ←     │         │                                         │
+│  ...           │         │                                         │
+│                │         │                                         │
+│ ▼ Price        │         │                                         │
+│  ──●══════○──  │         │                                         │
+│  ...           │         │                                         │
+│                │         │                                         │
+│ ▼ Features     │         │                                         │
+│  ✓ DoFollow    │         │                                         │
+│  □ Verified    │         │                                         │
+│  ...           │         │                                         │
+└────────────────┘         └─────────────────────────────────────────┘
+  320px wide                    Overlay backdrop (tap to close)
+
+
+## FILTER SECTIONS - COLLAPSED/EXPANDED
+────────────────────────────────────────────────────────────────────────────────
+
+COLLAPSED:
+┌──────────────────────────────┐
+│  Category / Niche         ▼  │
+├──────────────────────────────┤
+│  Country                  ▼  │
+├──────────────────────────────┤
+│  Domain Authority (DA)    ▼  │
+├──────────────────────────────┤
+│  Price Range              ▼  │
+├──────────────────────────────┤
+│  Features                 ▼  │
+└──────────────────────────────┘
+
+EXPANDED:
+┌──────────────────────────────┐
+│  Category / Niche         ▲  │
+│                              │
+│  □ All Niches           50   │
+│  ✓ 💻 Technology        12   │
+│  □ 💼 Business           8   │
+│  □ 💪 Health & Fitness   5   │
+│  □ ✈️  Travel            6   │
+│  ... (scrollable)            │
+│                              │
+├──────────────────────────────┤
+│  Country                  ▲  │
+│                              │
+│  □ All Countries             │
+│  □ United States             │
+│  ✓ United Kingdom            │
+│  □ Canada                    │
+│  □ Australia                 │
+│  □ India                     │
+│  □ Germany                   │
+│                              │
+└──────────────────────────────┘
+
+
+## QUICK FILTER BUTTONS - STATES
+────────────────────────────────────────────────────────────────────────────────
+
+DEFAULT (Not selected):
+[20-40]  [40-60]  [60-80]  [80+]
+  ↑        ↑        ↑       ↑
+outline  outline  outline outline
+
+ACTIVE (Selected):
+[20-40]  [40-60]  [60-80]  [80+]
+           ↑
+         solid
+        primary
+         color
+
+
+## ACTIVE FILTER PILLS
+────────────────────────────────────────────────────────────────────────────────
+
+Above Results:
+
+[Technology ✕]  [United States ✕]  [DA: 40-60 ✕]  [$100-$300 ✕]  [DoFollow Only ✕]
+      ↑                ↑                  ↑                ↑               ↑
+   Click to         Click to          Click to        Click to        Click to
+    remove           remove            remove          remove          remove
+
+
+## ANIMATIONS
+────────────────────────────────────────────────────────────────────────────────
+
+1. MOBILE SIDEBAR SLIDE IN:
+   ┌────┐                    ┌────────────┐
+   │    │  →  →  →  →  →  →  │  Sidebar   │
+   │    │                    │  visible   │
+   └────┘                    └────────────┘
+   Off-screen               On-screen
+   (Spring animation)
+
+2. SECTION COLLAPSE/EXPAND:
+   ▼ Category        ▲ Category
+   ─────────────     ─────────────
+                     □ All Niches
+   Height: 0         ✓ Technology
+                     □ Business
+                     ...
+                     Height: auto
+   (Smooth height animation)
+
+3. PUBLISHER CARDS APPEAR:
+   Card 1: Fade + slide up (delay: 0ms)
+   Card 2: Fade + slide up (delay: 50ms)
+   Card 3: Fade + slide up (delay: 100ms)
+   ...
+   (Staggered animation)
+
+4. FILTER PILLS REMOVE:
+   [Technology ✕]  →  [fade out]  →  (removed)
+
+
+════════════════════════════════════════════════════════════════════════════════
+                              COLOR SCHEME
+════════════════════════════════════════════════════════════════════════════════
+
+Background:       White / Light gray
+Sidebar:          White card
+Text:             Dark gray
+Muted text:       Light gray
+Primary:          Blue (#2563eb)
+Secondary:        Light blue
+Border:           Light gray
+Hover:            Light blue background
+Active:           Primary color solid
+Checkbox:         Primary when checked
+Slider track:     Primary color
+Badge:            Blue/secondary variants
+
+════════════════════════════════════════════════════════════════════════════════
+
+This is what your Amazon/Flipkart style sidebar looks like! 🎨
+
+Professional, clean, and user-friendly - just like major e-commerce sites!
