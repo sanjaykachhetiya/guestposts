@@ -10,8 +10,16 @@
 
 import type * as auth from "../auth.js";
 import type * as auth_emailOtp from "../auth/emailOtp.js";
+import type * as cart from "../cart.js";
 import type * as http from "../http.js";
+import type * as niches from "../niches.js";
+import type * as orders from "../orders.js";
+import type * as packages from "../packages.js";
+import type * as publishers from "../publishers.js";
+import type * as reviews from "../reviews.js";
+import type * as seedData from "../seedData.js";
 import type * as users from "../users.js";
+import type * as wishlist from "../wishlist.js";
 
 import type {
   ApiFromModules,
@@ -22,8 +30,16 @@ import type {
 declare const fullApi: ApiFromModules<{
   auth: typeof auth;
   "auth/emailOtp": typeof auth_emailOtp;
+  cart: typeof cart;
   http: typeof http;
+  niches: typeof niches;
+  orders: typeof orders;
+  packages: typeof packages;
+  publishers: typeof publishers;
+  reviews: typeof reviews;
+  seedData: typeof seedData;
   users: typeof users;
+  wishlist: typeof wishlist;
 }>;
 
 /**
