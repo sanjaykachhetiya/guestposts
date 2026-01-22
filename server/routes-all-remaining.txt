@@ -1,0 +1,8 @@
+I'll create remaining route files:
+- cart.js
+- orders.js
+- wishlist.js
+- packages.js
+- niches.js
+- reviews.js
+- users.js
