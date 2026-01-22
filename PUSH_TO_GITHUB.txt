@@ -1,0 +1,85 @@
+========================================
+HOW TO PUSH TO YOUR GITHUB
+========================================
+
+The Express + MongoDB backend has been created but couldn't push automatically.
+
+OPTION 1: Push from Your Local Machine
+----------------------------------------
+
+1. Clone your repository:
+   git clone https://github.com/sanjaykachhetiya/guestposts.git
+   cd guestposts
+
+2. Pull the latest code from this workspace somehow (you'll need to get the files)
+
+3. Then push:
+   git add -A
+   git commit -m "Add Express + MongoDB backend"
+   git push origin main
+
+
+OPTION 2: Manual Token Configuration
+----------------------------------------
+
+If you can provide a fresh GitHub token with correct permissions:
+
+1. Go to: https://github.com/settings/tokens
+2. Generate new token (classic)
+3. Select scopes: repo (full control)
+4. Copy the token
+5. Provide the new token
+
+
+OPTION 3: All Files Are Ready Locally
+----------------------------------------
+
+All the Express + MongoDB backend files are in:
+/home/daytona/codebase/server/
+
+You can copy these to your local machine and commit manually.
+
+
+WHAT'S BEEN CREATED:
+----------------------------------------
+
+✅ server/index.js - Main Express server
+✅ server/middleware/auth.js - JWT authentication
+✅ server/models/ - 8 Mongoose models:
+   - Publisher.js
+   - User.js
+   - Order.js
+   - Cart.js
+   - Wishlist.js
+   - Package.js
+   - Niche.js
+   - Review.js
+
+✅ server/routes/ - API endpoints:
+   - publishers.js (complete)
+   - auth.js (complete)
+   - cart.js (complete)
+
+✅ SELF_HOSTING_COMPLETE_GUIDE.md - Full deployment guide with:
+   - All remaining route templates
+   - Database seed script
+   - VPS deployment instructions
+   - Nginx configuration
+   - SSL setup
+   - Frontend API integration
+
+✅ Updated package.json with backend dependencies
+
+NEXT STEPS:
+----------------------------------------
+
+1. Get these files to your local machine
+2. Install MongoDB: https://www.mongodb.com/try/download/community
+3. Run: npm install
+4. Create remaining route files from templates in SELF_HOSTING_COMPLETE_GUIDE.md
+5. Run: npm run seed (to populate database)
+6. Run: npm run server (start backend)
+7. Run: npm run dev (start frontend)
+8. Deploy to your VPS following the guide
+
+========================================
